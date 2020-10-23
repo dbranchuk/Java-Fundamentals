@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class Main {
+public class task1 {
 
     public static void main(String[] args) {
         double a,b,c;
